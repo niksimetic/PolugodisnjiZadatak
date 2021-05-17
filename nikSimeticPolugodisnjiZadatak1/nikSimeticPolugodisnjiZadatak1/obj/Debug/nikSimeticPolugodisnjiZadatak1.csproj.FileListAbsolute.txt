@@ -1,0 +1,9 @@
+C:\Users\Nik\source\repos\nikSimeticPolugodisnjiZadatak1\nikSimeticPolugodisnjiZadatak1\bin\Debug\nikSimeticPolugodisnjiZadatak1.exe.config
+C:\Users\Nik\source\repos\nikSimeticPolugodisnjiZadatak1\nikSimeticPolugodisnjiZadatak1\bin\Debug\nikSimeticPolugodisnjiZadatak1.exe
+C:\Users\Nik\source\repos\nikSimeticPolugodisnjiZadatak1\nikSimeticPolugodisnjiZadatak1\bin\Debug\nikSimeticPolugodisnjiZadatak1.pdb
+C:\Users\Nik\source\repos\nikSimeticPolugodisnjiZadatak1\nikSimeticPolugodisnjiZadatak1\obj\Debug\nikSimeticPolugodisnjiZadatak1.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\nikSimeticPolugodisnjiZadatak1\nikSimeticPolugodisnjiZadatak1\obj\Debug\nikSimeticPolugodisnjiZadatak1.Form1.resources
+C:\Users\Nik\source\repos\nikSimeticPolugodisnjiZadatak1\nikSimeticPolugodisnjiZadatak1\obj\Debug\nikSimeticPolugodisnjiZadatak1.Properties.Resources.resources
+C:\Users\Nik\source\repos\nikSimeticPolugodisnjiZadatak1\nikSimeticPolugodisnjiZadatak1\obj\Debug\nikSimeticPolugodisnjiZadatak1.csproj.GenerateResource.cache
+C:\Users\Nik\source\repos\nikSimeticPolugodisnjiZadatak1\nikSimeticPolugodisnjiZadatak1\obj\Debug\nikSimeticPolugodisnjiZadatak1.exe
+C:\Users\Nik\source\repos\nikSimeticPolugodisnjiZadatak1\nikSimeticPolugodisnjiZadatak1\obj\Debug\nikSimeticPolugodisnjiZadatak1.pdb
